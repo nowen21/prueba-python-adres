@@ -26,6 +26,12 @@
 
 ---
 
+## 🗉️ **Manuales**  
+- 👉 **Manual de Usuario**  
+- 👉 **Manual Técnico**  
+
+---
+
 ## 📦 Instalación  
 
 ### **1️⃣ Clonar el repositorio**
