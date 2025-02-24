@@ -20,7 +20,7 @@
 ## 🔧 Requisitos Técnicos  
 
 ### 📋 **Requisitos del sistema**  
-- ✅ **Python 3.7+**  
+- ✅ **Python 3.13.2+**  
 - ✅ **Sistema Operativo:** Windows, macOS o Linux  
 - ✅ **Bibliotecas necesarias:** Especificadas en `requirements.txt`  
 
