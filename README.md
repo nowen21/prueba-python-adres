@@ -17,6 +17,12 @@
 
 ---
 
+## 🗉️ **Manuales**  
+- 👉 **Manual de Usuario**  
+- 👉 **Manual Técnico**  
+
+---
+
 ## 🔧 Requisitos Técnicos  
 
 ### 🗉️ **Requisitos del sistema**  
@@ -26,11 +32,7 @@
 
 ---
 
-## 🗉️ **Manuales**  
-- 👉 **Manual de Usuario**  
-- 👉 **Manual Técnico**  
 
----
 
 ## 📦 Instalación  
 
