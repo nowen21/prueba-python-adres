@@ -46,7 +46,7 @@ pip install -r requirements.txt
 Para iniciar la aplicación, ejecuta:
 
 ```bash
-python main.py
+python extraeCUFE.py
 ```
 
 ---
