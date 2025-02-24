@@ -29,5 +29,5 @@
 ## 📦 Instalación  
 ### **1️⃣ Clonar el repositorio**
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/nowen21/prueba-python-adres.git
+cd prueba-python-adres
