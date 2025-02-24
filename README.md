@@ -1,6 +1,6 @@
 # 📄 Extractor de CUFE desde PDFs  
 
-**Versión 1.0.0** | 🛠️ **Python 3.7+** | 🖥️ **Windows / macOS / Linux**  
+**Versión 1.0.0** | 🛠️ **Python 3.13.2+** | 🖥️ **Windows / macOS / Linux**  
 
 🚀 Aplicación de escritorio para extraer el **CUFE** de facturas electrónicas en **PDF**, evitando duplicados y mostrando los resultados en una **interfaz moderna** con tabla interactiva.  
 
