@@ -65,6 +65,20 @@ python extraeCUFE.py
 
 ---
 
+## 🏗️ Estructura del Proyecto  
+```
+PRUEBA-PYTHON-ADRES/
+│── manuales/
+│   │── Manual_Tecnico_Extractor_CUFE.docx
+│   │── Manual_Usuario_Extractor_CUFE.docx
+│── extraeCUFE.py
+│── facturas.db
+│── README.md
+│── requirements.txt
+```
+
+---
+
 ## 🏢 Tecnologías Usadas  
 - **Python 3.13.2+**  
 - **Tkinter y ttk para la interfaz gráfica**  
@@ -81,4 +95,12 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## 👤 Autor  
 Desarrollado por [Ing. José Dúmar Jimémez Ruíz](https://github.com/nowen21).  
+
+
+
+
+
+
+
+
 
